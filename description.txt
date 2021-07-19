@@ -1,0 +1,12 @@
+This project was my final project for my embedded systems class.
+The concept was inspired by common LED color detection software available in consumer RGB LED strips.
+
+
+colorchoose.c:
+	the main program which runs on a raspberry pi to build the embedded system
+
+colordetect.py:
+	a smaller program written to use openCV for color detection
+
+POL-ece350-final.mp4:
+	a proof of life demonstrating that the system works as intended
